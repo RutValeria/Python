@@ -12,6 +12,7 @@
 # print(c)
 # print(d)
 # print(e)
+# Урок 4
 # a = 5
 # a += 10
 # print(a)
@@ -27,3 +28,10 @@
 # b = 3
 # print(a / b * 3)
 # print(float(input()))
+# Урок 5
+# a = 5
+# b = 7
+# print(a < b)
+a = int(input())
+b = int(input())
+if a < 
