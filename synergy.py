@@ -32,6 +32,39 @@
 # a = 5
 # b = 7
 # print(a < b)
-a = int(input())
-b = int(input())
-if a < 
+# a = int(input())
+# b = int(input())
+# if a < b:
+#     print("Yes")
+# else:
+#     if a == b:
+#         print("Maybe")
+#     else:
+#         print("No")
+# a = int(input())
+# if a <= 2:
+#     print(1)
+# elif a <= 4:
+#     print(2)
+# elif a <= 5:
+#     print(3)
+# else:
+#     print(4)
+# cash = int(input())
+# cost = int(input())
+# cassa = int(input())
+# if (cash >= cost) and ((cash - cost) <= cassa):
+#     print("Кола наша")
+# else:
+#     print("В этот раз на воде держимся")
+# cash = int(input())
+# cola = int(input())
+# baykal = int(input())
+# if (cola <= cash) or (baykal <= cash):
+#     print("Купили")
+# else:
+#     print("Не повезло, не фортануло(")
+# cash = int(input())
+# mac = int(input())
+# if not cash >= mac:
+#     print("Сорян")
