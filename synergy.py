@@ -68,3 +68,62 @@
 # mac = int(input())
 # if not cash >= mac:
 #     print("Сорян")
+# Урок 6
+# a = int(input())
+# cnt = 0
+# while a >= 0:
+#     a -= 2
+#     cnt += 1
+#     print(cnt)
+
+# a = int(input())
+# cnt = 0
+# while a > 0:
+#     a -= 2
+#     print(a)
+
+# clients = int(input())
+# cola = int(input())
+# cnt = 0
+# while (clients > 0) and (cola >= 0):
+#     cans = int(input())
+#     clients -= 1
+#     if cola >= cans:
+#         cnt += 1
+#         cola -= cans
+# print(cnt)
+
+# for i in range(1, 11):
+#     print(i)
+
+# a = int(input())
+# b = int(input())
+# for i in range(a, b, 2):
+#     print(i)
+
+# a = int(input())
+# b = int(input())
+# for i in range(b, a - 1, -1):
+#     print(i)
+
+# for i in range(3, 10):
+#     print(i)
+
+# a = 1
+# while a < 5:
+#     a += 1
+#     print(a)
+# else:
+#     print("Чебурек")
+
+# a = 1
+# while a < 5:
+#     a += 1
+#     print(a)
+#     print("Чебурек")
+
+# n = int(input())
+# for i in range(n):
+#     salary = int(input())
+#     if salary % 2 == 0:
+#         print(i + 1, "fired")
